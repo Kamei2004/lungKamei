@@ -1,5 +1,5 @@
 
-# 🌟 Lung Kamei — Software Developer & Portfolio
+# 🌟 Lung Kamei — Aspiring Software Developer 
 
 Welcome! This repo contains my personal portfolio website where I showcase projects, skills, and contact information. The site is built with modern web tooling and designed to be responsive, accessible, and easy to navigate.
 
