@@ -1,73 +1,80 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🌟 Lung Kamei — Software Developer & Portfolio
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Welcome! This repo contains my personal portfolio website where I showcase projects, skills, and contact information. The site is built with modern web tooling and designed to be responsive, accessible, and easy to navigate.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Live Demo
 
-**Use Lovable**
+View the live portfolio: https://lung-kamei.vercel.app/
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🙋‍♂️ About Me
 
-**Use your preferred IDE**
+Hi — I'm **Lung Kamei**, a software developer passionate about building clean, reliable software. I enjoy solving problems, learning new technologies, and turning ideas into working applications. I focus on web development and backend scripting, and I particularly like working with Python and TypeScript.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Core strengths:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Problem solving and algorithmic thinking
+- Building responsive front-end experiences with React and Tailwind
+- Writing maintainable Python for automation, data tasks, and backend logic
+- Strong communication, collaboration, and a growth mindset
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## ⚡ What I Build
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- Interactive web apps and portfolio projects
+- Small full-stack demos (frontend + lightweight APIs)
+- Automation scripts and tools in Python
 
-# Step 3: Install the necessary dependencies.
-npm i
+Explore the `src/` folder to see components, pages, and UI utilities used in this site.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: React, TypeScript, Vite
+- Styling: Tailwind CSS, shadcn/ui components
+- Language: JavaScript / TypeScript, Python for scripts and tooling
+- Tooling: ESLint, Vite, PostCSS
+
+This project installs dependencies listed in `package.json` and uses Vite for development and builds.
+
+---
+
+## ▶️ Run Locally
+
+Install dependencies and start the dev server:
+
+```bash
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Build for production:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run build
+npm run preview
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📫 Contact
 
-## What technologies are used for this project?
+- Email: lungkamei85@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lung-kamei/
+- GitHub: https://github.com/Kamei2004/
 
-This project is built with:
+If you'd like to collaborate, review code, or have a project idea — reach out!
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🙏 Acknowledgements
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Thanks to the open-source UI libraries, component patterns, and community examples that inspired this design.
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
